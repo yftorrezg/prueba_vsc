@@ -1,10 +1,10 @@
-// promodio de 3 numeros en JS 
+// promedio de 3 numeros en JS
 function promedio(num1, num2, num3) {
-    return (num1 + num2 + num3) / 3;
+  return (num1 + num2 + num3) / 3;
 }
 console.log(promedio(2, 4, 6)); // 4
 
-// Refactorización: 
+// Refactorización:
 const prom = (num1, num2, num3) => (num1 + num2 + num3) / 3;
 console.log(prom(2, 4, 6)); // 4
 
@@ -16,8 +16,7 @@ Esta función calcula el promedio de tres números. Toma los tres números como 
 
 // fibonacci
 function fibonacci(n) {
-    if (n < 3) return 1;
-    else return fibonacci(n - 1) + fibonacci(n - 2);
+  if (n < 3) return 1;
+  else return fibonacci(n - 1) + fibonacci(n - 2);
 }
 console.log(fibonacci(12)); // 144
-
