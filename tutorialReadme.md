@@ -145,22 +145,52 @@ Puedes usar `git status` para ver el estado de tu repositorio.
 
 
 > [!IMPORTANT]
-> hola como estas 
+> soy importante
+> soy importante
+> soy importante
+
+> [!TIP]
+> soy un tip 
+
+> [!NOTE]
+> soy una nota
+
+> [!WARNING]
+> soy un warning
+
+
+```javascript
+function saludo() {
+  console.log("hola");
+}
+```
+
 
 [![hola](https://sm.ign.com/ign_latam/screenshot/default/img-20200923-224412-01_rdac.jpg)](#-sobre-mí)
 
 <details>
 <summary><b>hola como estas</b></summary>
 
-aak pcomo 
-estamos bien poco a poco 
-comeremos de todo un poco 
-jejeje que tal 
+```javascript
+function saludo() {
+  console.log("hola");
+}
+```
+```javascript
+function saludo() {
+  console.log("hola");
+}
+```
+```javascript
+function saludo() {
+  console.log("hola");
+}
+```
+```javascript
+function saludo() {
+  console.log("hola");
+}
+```
 
 </details>
 
-### hola {#holaid}
-este es un subtitulo de prueba
-este es un subtitulo de prueba
-
-md
