@@ -141,3 +141,26 @@ Puedes usar `git status` para ver el estado de tu repositorio.
   - [🎯 Objetivos 2024](#-objetivos-2024)
   - [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
   - [📋 Ejemplo de Código (JavaScript)](#-ejemplo-de-código-javascript)
+  - [📚 Recursos Útiles](README.md)
+
+
+> [!IMPORTANT]
+> hola como estas 
+
+[![hola](https://sm.ign.com/ign_latam/screenshot/default/img-20200923-224412-01_rdac.jpg)](#-sobre-mí)
+
+<details>
+<summary><b>hola como estas</b></summary>
+
+aak pcomo 
+estamos bien poco a poco 
+comeremos de todo un poco 
+jejeje que tal 
+
+</details>
+
+### hola {#holaid}
+este es un subtitulo de prueba
+este es un subtitulo de prueba
+
+md

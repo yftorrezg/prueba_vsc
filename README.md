@@ -12,3 +12,46 @@ Git es una de las herramientas para este control más populares en el mundo con 
 -Moverse en diferentes versiones de los archivos
 -Conectarse y trabajar con repositorios locales y remotos para este último usaremos Github y un repositorio público
 -Trabajo con ramas (branches), lo cual nos permite con una base de código paralela al proyecto.
+
+```python
+def saludo():
+    print("Hola, mundo!")
+saludo()
+```
+
+```java 
+public class Saludo {
+    public static void main(String[] args) {
+        // En Java el resaltado diferencia palabras reservadas de clases
+        System.out.println("Hola desde Java!");
+    }
+}
+```
+
+<!-- javascrip -->
+```javascript
+// Función para saludar al usuario
+function saludar(nombre) {
+  const mensaje = `Hola, ${nombre}, bienvenido al mundo de Markdown.`;
+  console.log(mensaje);
+}
+saludar("Estudiante");
+```
+<!-- html -->
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento de Prueba</title>
+</head>
+<body>
+    <h1>Hola Mundo</h1>
+    <p>Este es un documento HTML de prueba.</p>
+</body>
+</html>
+```
+
+
